@@ -8,3 +8,5 @@ Built with:
 
 - React.js
 - Tailwind CSS
+
+Update 02.04.2022: I'm no longer (planning on) updating this portfolio website. Instead, I'm building a new one...
